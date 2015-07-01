@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "ascii-padding:pad"
   },
-  "repository": "https://github.com/atom/ascii-padding",
+  "repository": "https://github.com/memerelics/atom-ascii-padding",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
