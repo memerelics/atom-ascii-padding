@@ -1,5 +1,15 @@
 # ascii-padding package
 
-A short description of your package.
+Insert spaces between ascii words and non-ascii words.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+before padding
+
+``````
+1kgの物体を，1秒のうちに1m/sの速度まで加速する力を1ニュートンとする．
+``````
+
+after padding
+
+``````
+1kg の物体を，1 秒のうちに 1m/s の速度まで加速する力を 1 ニュートンとする．
+``````

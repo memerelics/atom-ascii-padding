@@ -13,6 +13,6 @@ module.exports =
     ignorePaddingWords:
       description: 'These non-ascii words ignored.'
       type: 'array'
-      default: ['、', '。', '「', '」', '【', '】']
+      default: ['、', '。','，','．', '「', '」','『','』', '【', '】']
       items:
         type: 'string'
